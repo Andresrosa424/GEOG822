@@ -1,0 +1,16 @@
+---
+title: "About"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+## Funding
+This research was partially funded by the [Alberta NAWMP Partnership.](https://abnawmp.ca/) Their support has been invaluable in facilitating the progress of this project.
+
+<img src="abnawmp.png" alt="Alberta NAWMP Partnership" style="width:200px;">
+
+
+
+This web page was created using [R Markdown.](https://rmarkdown.rstudio.com/) 
