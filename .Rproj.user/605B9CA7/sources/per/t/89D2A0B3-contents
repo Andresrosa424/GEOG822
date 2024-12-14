@@ -11,5 +11,5 @@ output:
     toc: true                
     toc_float: true          
     theme: flatly            
-    self_contained: True   
+    self_contained: TRUE  
     df_print: paged
