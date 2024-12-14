@@ -1,0 +1,33 @@
+/* Styling for the top bar */
+.top-bar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  z-index: 1000; /* Keeps the top bar above other content */
+}
+
+/* Search bar styling */
+.search-bar {
+  padding: 5px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+
+/* GitHub link styling */
+.github-link {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
