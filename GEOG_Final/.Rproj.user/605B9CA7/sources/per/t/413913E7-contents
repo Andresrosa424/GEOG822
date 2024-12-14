@@ -1,8 +1,0 @@
-name: "my-website"
-navbar:
-  title: "Andres N. Rosales"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
